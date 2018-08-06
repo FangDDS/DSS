@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 Git is a wouderfol
 Git is very good
-11
+Creating a new branch is quick & simple.
