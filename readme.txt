@@ -5,4 +5,8 @@ Git tracks changes.
 Git is a wouderfol
 Git is very good
 hhhh
+<<<<<<< HEAD
 11
+=======
+111
+>>>>>>> dev
